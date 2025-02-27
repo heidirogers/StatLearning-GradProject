@@ -1,0 +1,74 @@
+﻿county,FIPS,percent,people
+Iron County,55051,0.1,4
+Price County,55099,0.2,24
+Menominee County,55078,0.2,8
+Vernon County,55123,0.2,66
+Taylor County,55119,0.2,45
+Oconto County,55083,0.2,94
+Pepin County,55091,0.3,21
+Forest County,55041,0.3,28
+Buffalo County,55011,0.3,43
+Dunn County,55033,0.3,148
+Langlade County,55067,0.4,71
+Oneida County,55085,0.4,145
+Florence County,55037,0.4,20
+Marinette County,55075,0.5,189
+Trempealeau County,55121,0.5,142
+Kewaunee County,55061,0.5,97
+Marquette County,55077,0.5,74
+Lafayette County,55065,0.5,80
+Polk County,55095,0.5,216
+Vilas County,55125,0.5,113
+Shawano County,55115,0.5,218
+Washburn County,55129,0.5,91
+Pierce County,55093,0.6,234
+Marathon County,55073,0.6,765
+Green County,55045,0.6,217
+Door County,55029,0.6,177
+Lincoln County,55069,0.6,179
+St. Croix County,55109,0.7,620
+Burnett County,55013,0.7,114
+Clark County,55019,0.7,244
+Richland County,55103,0.7,124
+Rusk County,55107,0.7,104
+Wood County,55141,0.8,556
+Waupaca County,55135,0.8,392
+Walworth County,55127,0.8,839
+Sauk County,55111,0.8,534
+Sawyer County,55113,0.8,149
+Iowa County,55049,0.8,198
+Portage County,55097,0.9,619
+Calumet County,55015,1,509
+Bayfield County,55007,1,165
+Green Lake County,55047,1.1,204
+Manitowoc County,55071,1.1,870
+Jefferson County,55055,1.2,994
+Douglas County,55031,1.3,555
+Eau Claire County,55035,1.3,1393
+Washington County,55131,1.3,1835
+Ozaukee County,55089,1.4,1274
+Outagamie County,55087,1.5,2764
+Monroe County,55081,1.5,695
+La Crosse County,55063,1.5,1814
+Chippewa County,55017,1.5,1011
+Ashland County,55003,1.6,249
+Fond du Lac County,55039,1.6,1642
+Waukesha County,55133,1.6,6480
+Columbia County,55021,1.7,976
+Jackson County,55053,1.7,362
+Grant County,55043,1.7,903
+Barron County,55005,1.8,862
+Crawford County,55023,1.9,301
+Waushara County,55137,1.9,469
+Sheboygan County,55117,2,2314
+Adams County,55001,2.4,507
+Juneau County,55057,2.5,656
+Dodge County,55027,2.6,2287
+Winnebago County,55139,2.6,4421
+Brown County,55009,2.6,7100
+Rock County,55105,4.6,7595
+Dane County,55025,5,28235
+Kenosha County,55059,6.5,11025
+Racine County,55101,10.8,21344
+Milwaukee County,55079,26.1,243518
+,,,
