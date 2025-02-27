@@ -5,7 +5,7 @@ This project was completed as a Stat 764 graduate project (statistical learning)
 ### Data
 Data for this project includes raw csv files containing demographic and crime rate data. Shape files were also utilized to create geographic maps in connection to the data findings.
 
-### Data Sources
+### Sources
 Cubit Planning, Inc., & Carney, K. (2024, June 20). Wisconsin counties by population (2024). Wisconsin Demographics by Cubit. https://www.wisconsin-demographics.com/counties by population 
 
 Federal Bureau of Investigation. (2024). National Incident-Based Reporting System. How We Can Help You. https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs
