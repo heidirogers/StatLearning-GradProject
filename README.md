@@ -1,6 +1,6 @@
 # Statistical Learning - Graduate Project
 
-This project was completed as a Stat 764 graduate project (statistical learning) and examines the releationship between Wisconsin population demographics and crime rates over time. Using exploratory data analysis and clustering methods such as k-medoids and DB-SCAN alongside PCA, Wisconsin counties were grouped based on rates of crime against people, society, and property. All work was completed in Python programming language.
+This project was completed as a Stat 764 graduate project (statistical learning) and examines the releationship between Wisconsin population demographics and crime rates over time. Using exploratory data analysis and clustering methods such as k-medoids and DB-SCAN alongside PCA, Wisconsin counties were grouped and visualized based on rates of crime against people, society, and property. All work was completed in Python programming language.
 
 ### Data
 Data for this project includes raw csv files containing demographic and crime rate data. Shape files were also utilized to create geographic maps in connection to the data findings.
